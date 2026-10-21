@@ -1,3 +1,9 @@
+/**
+ * Author: Noah Chang
+ * Due date: Oct 21, 2026
+ * Description: My own version of the game Block Blast
+ */
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.GridLayout;
@@ -120,7 +126,7 @@ public class grid {
             }
         }
 
-        // copies column as arow then checks if full
+        // copies column as a row then checks if full
         int[] temp = new int[cells.length];
         for (int col = 0; col < cells[0].length; col++) {
             for (int row = 0; row < cells.length; row++) {

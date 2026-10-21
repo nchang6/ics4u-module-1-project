@@ -1,3 +1,8 @@
+/**
+ * Author: Noah Chang
+ * Due date: Oct 21, 2026
+ * Description: My own version of the game Block Blast
+ */
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;

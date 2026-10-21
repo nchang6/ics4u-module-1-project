@@ -1,8 +1,9 @@
 /**
- * Represents one randomly selected fixed-orientation shape. Ones are occupied
- * squares and zeros are gaps. The first occupied square in row-major order is
- * the anchor, displayed in gold and aligned with the clicked board cell.
+ * Author: Noah Chang
+ * Due date: Oct 21, 2026
+ * Description: My own version of the game Block Blast
  */
+
 public class block {
 
     //Stores the shape of the block as a 2D integer array
